@@ -27,8 +27,8 @@ export default function Home({ posts }) {
   return (
     <div className="max-w-prose mx-auto">
       <p className="mb-10 text-primary p-6 bg-orange-700/5 rounded text-lg -mt-8">
-        Hello! Welcome to my humble corner of the internet, this is where you'll
-        find some of my ramblings.
+        Hello! Welcome to my humble corner of the internet, this is where
+        you&apos;ll find some of my ramblings.
       </p>
       {posts.map(({ slug, frontmatter }) => (
         <div key={slug} className="py-3 block">
