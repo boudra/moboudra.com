@@ -27,7 +27,7 @@ export default function Home({ posts }) {
   return (
     <div className="max-w-prose mx-auto">
       <p className="mb-10 text-primary p-6 bg-orange-700/5 rounded text-lg -mt-8">
-        Hello! This is Mo, welcome to my personal site, I post some of my ideas here. You can find the source code of this page <a href="https://github.com/boudra/moboudra.com">here</a>.
+        Hello! This is Mo, welcome to my personal site, I post some of my ideas here. You can find the source code of this page <a className="underline text-orange-700" href="https://github.com/boudra/moboudra.com">here</a>.
       </p>
       {posts.map(({ slug, frontmatter }) => (
         <div key={slug} className="py-3 block">
