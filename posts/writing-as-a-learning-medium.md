@@ -4,7 +4,7 @@ description: "I believe that the ultimate proof that you understand a concept is
 date: "2020-01-01"
 ---
 
-<p>I believe that a good test that you understand a concept well is when you can break it down to its essence and teach it to someone.</p>
+<p>I believe that a good test that you understand a concept well, is when you can break it down to its essence and teach it to someone.</p>
 
 <p>Sometimes we think we understand something, but only when we try to explain it to someone we end up realizing that we didn't really have a good understanding of it.</p>
 
