@@ -27,13 +27,14 @@ export default function Home({ posts }) {
   const projects = [
     {
       title: "Konbert",
-      description: "Online conversion service between common data formats.",
+      description:
+        "Convert between common data formats automatically inside your browser.",
       link: "https://konbert.com",
     },
     {
       title: "Tablepad (WIP)",
       description:
-        "Desktop application to view and analyze structured data files.",
+        "View and analyze structured data files securely from your own computer.",
       link: "https://tablepad.io",
     },
   ];
