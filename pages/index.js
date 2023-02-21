@@ -40,7 +40,7 @@ export default function Home({ posts }) {
 
   return (
     <div className="max-w-prose mx-auto p-4">
-      <div className="text-center text-base mb-14 text-primary bg-primary-500 rounded-lg text-lg -mt-16">
+      <div className="max-w-sm m-auto text-center text-base mb-14 text-primary/80 bg-primary-500 rounded-lg text-lg -mt-16">
         <p>
           Hey hey! This is Mo. I enjoy designing and building digital products.
         </p>
