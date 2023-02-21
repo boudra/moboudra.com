@@ -39,12 +39,7 @@ export default function Home({ posts }) {
   ];
 
   return (
-    <div className="max-w-prose mx-auto p-4">
-      <div className="max-w-sm m-auto text-center text-base mb-14 text-primary/80 bg-primary-500 rounded-lg text-lg -mt-16 pb-6">
-        <p>
-          Hey hey! This is Mo. I enjoy designing and building digital products.
-        </p>
-      </div>
+    <div className="max-w-prose mx-auto px-4">
       <div className="pb-12">
         <div className="font-display text-2xl pb-6 underline decoration-2 decoration-secondary text-primary">
           Projects
@@ -74,8 +69,8 @@ export default function Home({ posts }) {
         {posts.map(({ slug, frontmatter }) => (
           <div key={slug} className="pb-3">
             <Link href={`/post/${slug}`}>
-              <a className="block text-primary hover:text-secondary decoration-2">
-                <h2 className="font-semibold text-lg">{frontmatter.title}</h2>
+              <a className="font-semibold text-lg block text-primary hover:text-secondary decoration-2">
+                <h2>{frontmatter.title}</h2>
               </a>
             </Link>
             <div className="text-xs text-primary/40 w-20">

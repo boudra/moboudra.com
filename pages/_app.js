@@ -11,9 +11,7 @@ function MyApp({ Component, pageProps }) {
       <div className="flex flex-col mx-auto">
         <header className="mb-10 py-8 max-w-prose w-full mx-auto flex justify-center">
           <Link href="/">
-            <a className="font-display text-2xl text-[#66463b]">
-              Mohamed Boudra
-            </a>
+            <a className="font-display text-2xl text-primary">Mohamed Boudra</a>
           </Link>
         </header>
         <main>
