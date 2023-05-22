@@ -29,7 +29,7 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function PostPage({ meta, content }) {
   return (
-    <div className="max-w-prose mx-auto">
+    <div className="max-w-prose mx-auto px-4">
       <Head>
         <script
           src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-core.min.js"
@@ -46,8 +46,8 @@ export default function PostPage({ meta, content }) {
         <title>{meta.title}</title>
         <meta name="description" content={meta.description} />
       </Head>
-      <div className="text-center mb-8">
-        <h1 className="text-center font-display text-primary underline decoration-secondary decoration-3 text-4xl mb-2 font-bold">
+      <div className="mb-8 mt-4">
+        <h1 className="font-display text-primary text-3xl mb-2 font-bold">
           {meta.title}
         </h1>
         <span className="text-xs text-slate-400">{meta.date}</span>
