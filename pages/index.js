@@ -32,6 +32,16 @@ export default function Home({ posts }) {
       link: "https://konbert.com",
     },
     {
+      title: "Kon",
+      description: "Command line tool to convert between common data formats.",
+      link: "https://github.com/boudra/kon",
+    },
+    {
+      title: "Chainsauce",
+      description: "Typescript library to index blockhain data.",
+      link: "https://github.com/chainsauce-org/chainsauce",
+    },
+    {
       title: "Tablepad (WIP)",
       description:
         "View and analyze structured data files securely from your own computer.",
