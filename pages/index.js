@@ -42,6 +42,11 @@ export default function Home({ posts }) {
       link: "https://github.com/chainsauce-org/chainsauce",
     },
     {
+      title: "Jaxon",
+      description: "Fast streaming JSON parser for Elixir",
+      link: "https://github.com/boudra/jaxon",
+    },
+    {
       title: "Tablepad (WIP)",
       description:
         "View and analyze structured data files securely from your own computer.",
