@@ -94,7 +94,7 @@ function printFieldOptions(field: Field) {
 
 ## React State
 
-The same thing can happen in React state when we split states that belong together. To following example illustrates this scenario:
+The same thing can happen in React state when we split states that belong together. The following example illustrates this scenario:
 
 ```typescript
 const [data, setData] = useState<Data | null>(null);
