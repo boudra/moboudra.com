@@ -6,7 +6,7 @@ date: "2023-05-25"
 
 ## What are impossible states?
 
-Impossible states arise when our application enters a condition that should be functionally impossible.
+Impossible states arise when our application enters a condition that should be logically impossible.
 
 For example, let's say we want to represent some field data for it to be rendered later.
 
