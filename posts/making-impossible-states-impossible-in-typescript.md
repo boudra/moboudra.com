@@ -19,7 +19,7 @@ type Field = {
 };
 ```
 
-Altough at a first glance this type seems to make sense, it allows you to have impossible representations. For example:
+This type seems to make sense at a first glance, because it's flexible and it allows us to represent different field types and their different options. But if used incorrectly, it allows you to have impossible representations. For example:
 
 ```typescript
 const field = {
