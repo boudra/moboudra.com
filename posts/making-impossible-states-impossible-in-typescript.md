@@ -12,8 +12,8 @@ For example, let's say we want to represent some field data for it to be rendere
 
 ```typescript
 type Field = {
-  name: string;
   type: "text" | "number" | "select" | "checkbox";
+  name: string;
   value: string | number | boolean;
   options?: string[];
 };
@@ -23,8 +23,8 @@ Altough at a first glance this type seems to make sense, it allows you to have i
 
 ```typescript
 const field = {
-  name: "agree_terms_and_conditions",
   type: "checkbox",
+  name: "mycheckbox",
   value: 5, // a number?
   options: ["choice 1", "choice 2"], // what is this for? it's a checkbox
 };
@@ -41,27 +41,27 @@ could redesign our `Field` type using a discriminated union like this:
 
 ```typescript
 type TextField = {
-  name: string;
   type: "text";
+  name: string;
   value: string;
 };
 
 type NumberField = {
-  name: string;
   type: "number";
+  name: string;
   value: number;
 };
 
 type SelectField = {
-  name: string;
   type: "select";
+  name: string;
   value: string;
   options: string[];
 };
 
 type CheckboxField = {
-  name: string;
   type: "checkbox";
+  name: string;
   checked: boolean;
 };
 
