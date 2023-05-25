@@ -1,5 +1,5 @@
 ---
-title: "Writing as a learning medium"
+title: "Learning by Writing"
 description: "I believe that the ultimate proof that you understand a concept is when you can break it down to its essence and teach it to someone that's unfamiliar with it."
 date: "2020-01-01"
 ---
