@@ -87,7 +87,7 @@ function printFieldOptions(field: Field) {
   if (field.type === "checkbox") {
     console.log(field.options); // we know options exists in field
   } else {
-    ...
+    // ...
   }
 }
 ```
