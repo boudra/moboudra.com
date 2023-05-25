@@ -1,6 +1,6 @@
 ---
 title: "Making Impossible States Impossible in TypeScript"
-description: ""
+description: "Impossible states arise when our application enters a condition that should be functionally impossible."
 date: "2023-05-25"
 ---
 
@@ -23,17 +23,16 @@ Altough this type seems to make sense at a first glance, this type allows you to
 
 ```typescript
 const field = {
-  name: "remember_me",
+  name: "agree_terms_and_conditions",
   type: "checkbox",
-  value: 5,
-  options: ["choice 1", "choice 2"],
+  value: 5, // a number?
+  options: ["choice 1", "choice 2"], // what is this for? it's a checkbox
 };
 ```
 
-In the above example, a checkbox field has a numeric value, and unnecessary options, neither of which make sense.
+In the above example, the field is of type `checkbox`, but has a numeric `value`, and unnecessary `options`, neither of which make sense.
 
-Now, depending on how the code that uses these field types was written, it might actually be impossible for the a field to end up in an impossible state, but
-because it can, we can assume that at some point, it will end up, causing bugs or other issues.
+You might argue that the application code should be responsible to ensure these states cannot happen, but because these states are allowed, we can assume that at some point, they will happen, causing unexpected issues.
 
 ## How to prevent them
 
