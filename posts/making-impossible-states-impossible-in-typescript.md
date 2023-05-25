@@ -92,9 +92,9 @@ function printFieldOptions(field: Field) {
 }
 ```
 
-## React Component States
+## React State
 
-The same thing can happen in React state when we split states that are should stay together. To following example illustrates this scenario:
+The same thing can happen in React state when we split states that belong together. To following example illustrates this scenario:
 
 ```typescript
 const [data, setData] = useState<Data | null>(null);
