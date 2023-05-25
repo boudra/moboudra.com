@@ -3,17 +3,18 @@ export default function Projects(_props) {
     {
       title: "Konbert",
       description:
-        "Convert between common data formats automatically inside your browser.",
+        "Convert between common data formats automatically from your browser.",
       link: "https://konbert.com",
     },
     {
       title: "Kon",
-      description: "Command line tool to convert between common data formats.",
+      description:
+        "Command line tool to convert between common data formats, written in Rust.",
       link: "https://github.com/boudra/kon",
     },
     {
       title: "Chainsauce",
-      description: "Typescript library to index blockhain data.",
+      description: "TypeScript library to index Ethereum blockhain data.",
       link: "https://github.com/chainsauce-org/chainsauce",
     },
     {
