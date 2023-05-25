@@ -53,7 +53,7 @@ export default function PostPage({ meta, content }) {
         <span className="text-xs text-slate-400">{meta.date}</span>
       </div>
       <div
-        className="prose mx-auto py-8 prose-h2:text-primary prose-headings:font-display prose-lg hover:prose-a:text-secondary prose-a:primary prose-headings:font-semibold"
+        className="prose mx-auto py-8 prose-headings:text-primary prose-headings:font-display prose-lg hover:prose-a:text-secondary prose-a:primary prose-headings:font-semibold prose-h1:text-2xl prose-h2:text-xl"
         dangerouslySetInnerHTML={{ __html: md({ html: true }).render(content) }}
       />
     </div>
