@@ -1,5 +1,5 @@
 ---
-title: "Making Impossible States Impossible in TypeScript"
+title: "Making Impossible States Impossible with TypeScript"
 description: "Impossible states arise when our application enters a condition that should be functionally impossible."
 date: "2023-05-25"
 ---
