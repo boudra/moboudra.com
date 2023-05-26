@@ -30,7 +30,7 @@ const field = {
 };
 ```
 
-In the above example, the field is of type `checkbox`, but has a numeric `value`, and unnecessary `options`, neither of which make sense.
+In the above example, the field is of type `checkbox`, but has a numeric `value` instead of a boolean, and unnecessary `options`, neither of which make sense.
 
 You might argue that the application code should be responsible to ensure these states cannot happen, but because these states are allowed, we can assume that at some point, they will happen, causing unexpected issues.
 
