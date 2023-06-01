@@ -24,11 +24,11 @@ While it's important to select appropriate technologies that align with the proj
 
 Another disguise of procrastination in software development is what we call the "shiny new object syndrome."
 
-This can happen when developers spend time replacing an existing, already working library with a new one, hoping it will solve all the problems. The shiny new library often comes with promises — more efficient performance, cleaner code, or simpler interfaces, to name a few.
+This can happen when developers spend time replacing an existing, already working library or tool with a new one, hoping it will solve all the problems. The shiny new object often comes with promises — more efficient performance, cleaner code, or simpler interfaces, to name a few.
 
 While these new tools and libraries can indeed offer significant advantages, they are not a silver bullet. They can't always replace the need for a thorough cleanup and improvement of the existing codebase. The time and effort invested in learning the new library, integrating it into the existing code, and potentially dealing with unforeseen issues or limitations could often be better spent on improving the quality of the existing code and architecture.
 
-In this sense, the attraction to the shiny new library serves as a form of procrastination, a distraction from the hard but necessary work of improving the codebase. Recognizing this tendency is an important step towards more productive habits in software development.
+In this sense, the attraction to the shiny new object serves as a form of procrastination, a distraction from the hard but necessary work of improving the codebase. Recognizing this tendency is an important step towards more productive habits in software development.
 
 # Conclusion
 
