@@ -16,6 +16,10 @@ export async function getStaticProps() {
     };
   });
 
+  posts.sort((a, b) => {
+    return new Date(b.frontmatter.date) - new Date(a.frontmatter.date);
+  });
+
   return {
     props: {
       posts,
