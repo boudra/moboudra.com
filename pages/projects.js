@@ -13,6 +13,11 @@ export default function Projects(_props) {
       link: "https://github.com/boudra/kon",
     },
     {
+      title: "Breathe",
+      description: "Breathing exercises to calm anxiety and aiding meditation.",
+      link: "https://breathe.moboudra.com",
+    },
+    {
       title: "Chainsauce",
       description: "TypeScript library to index Ethereum blockhain data.",
       link: "https://github.com/chainsauce-org/chainsauce",
