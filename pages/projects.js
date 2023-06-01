@@ -14,7 +14,7 @@ export default function Projects(_props) {
     },
     {
       title: "Breathe",
-      description: "Breathing exercises to calm anxiety and aiding meditation.",
+      description: "Breathing exercises to calm anxiety and aid meditation.",
       link: "https://breathe.moboudra.com",
     },
     {
