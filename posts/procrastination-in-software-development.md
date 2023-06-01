@@ -4,7 +4,9 @@ description: "In software development, procrastination doesn't necessarily mean 
 date: "2023-06-01"
 ---
 
-There's a common misconception that procrastination is equal to laziness. When we say that someone is procrastinating, we usually think of a person doing nothing productive, however, procrastination isn't about doing nothing, it's more about engaging in "comfort zone" tasks while avoiding more challenging tasks. Which could be complex features that need to be implemented or difficult bugs that need solving.
+There's a common misconception that procrastination is equal to laziness.
+
+When we say that someone is procrastinating, we usually think of a person doing nothing productive, however, procrastination isn't about doing nothing, it's more about engaging in "comfort zone" tasks while avoiding more challenging tasks. Which could be complex features that need to be implemented or difficult bugs that need solving.
 
 # Perfectionism
 
