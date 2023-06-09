@@ -1,4 +1,5 @@
-import "../styles/globals.css";
+import "../../styles/globals.css";
+
 import Head from "next/head";
 import Link from "next/link";
 import { useRouter } from "next/router";

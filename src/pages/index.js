@@ -1,7 +1,7 @@
 import fs from "fs";
 import matter from "gray-matter";
-import Image from "next/image";
 import Link from "next/link";
+import { formatDate } from "../date";
 
 export async function getStaticProps() {
   const files = fs.readdirSync("posts");
@@ -38,8 +38,8 @@ export default function Home({ posts }) {
                 <h2>{frontmatter.title}</h2>
               </a>
             </Link>
-            <div className="text-xs text-primary/40 w-20">
-              {frontmatter.date}
+            <div className="text-xs text-primary/40">
+              {formatDate(new Date(frontmatter.date))}
             </div>
           </div>
         ))}
