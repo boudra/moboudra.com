@@ -14,6 +14,6 @@ It is a natural tendency to develop tunnel vision and become overly focused on t
 
 The primary purpose of code is to build software that is useful and impactful. That's why it's important to strike a balance between the technical aspects of coding and the software's intended impact.
 
-The impact of software is directly linked to the usefulness of its functionality, which in turn, is a reflection of the capabilities of team that developed it.
+The impact of software is directly linked to the usefulness of its functionality, which in turn, is a reflection of the capabilities of team that developed it. Ideally, a good team is one that collectively are focused on the impact and not on the code itself, and demonstrate empathy towards each other and the users they serve.
 
-Ultimately, the key to create impactful software is to build a strong and collaborative team, a team that collectively strive to build the right thing, and their members prioritize the impact of their work over the code itself, empathize with each other and the end users they serve.
+In summary, the focus on people, not the code, is key in the process of building software. It strengthens the relationships and collaboration among team members, while also ensuring that the software serves the needs and of end users
