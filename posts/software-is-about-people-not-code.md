@@ -10,7 +10,7 @@ Software is built by people, for people. As software developers, it is important
 
 Writing code can be fun in itself, it can be an outlet for creativity and intellectual stimulation, but code is just a tool, a means to an end.
 
-The primary purpose of code is to create software that is useful and impactful. That's why it's important to strike a balance between the technical aspects of coding and the software's intended impact.
+The primary purpose of code is to build software that is useful and impactful. That's why it's important to strike a balance between the technical aspects of coding and the software's intended impact.
 
 The impact of software is directly linked to the quality of its functionality, which in turn, is a reflection of the capabilities of team that developed it. Building excellent software begins with the team that develops it.
 
