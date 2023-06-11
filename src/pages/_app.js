@@ -30,7 +30,7 @@ function MyApp({ Component, pageProps }) {
                   : "decoration-transparent text-primary/70 hover:text-primary "
               }`}
             >
-              <Link href="/">Articles</Link>
+              <Link href="/">Posts</Link>
             </div>
             <div
               className={`font-display text-lg underline decoration-2 ${
