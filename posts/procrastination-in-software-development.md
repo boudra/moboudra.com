@@ -16,7 +16,7 @@ There's an inherent value in refactoring code, but if it's serving as a distract
 
 # The Perfect Stack
 
-One more subtle form of procrastination in software development can happen when developers or teams spend a disproportionate amount of time and energy deciding on the "perfect" tech stack for a project.
+One more subtle form of procrastination can happen when developers or teams spend a crazy amount of time and energy deciding on the "perfect" tech stack for a project.
 
 While it's important to select appropriate technologies that align with the project's requirements and team's skillset, the pursuit of the perfect stack can become an endless rabbit hole. The tech industry is always evolving, with new languages, frameworks, and tools appearing constantly. Falling into the trap of continuously exploring these new options, without committing to a decision, can significantly stall progress.
 
