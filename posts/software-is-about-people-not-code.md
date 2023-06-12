@@ -28,7 +28,7 @@ Here are some example acts of empathy that I consider essential:
 - **Test implementations**: Invest time in proper manual and automated testing to identify issues early on, and save your teammates from late-night or weekend debugging sessions down the line.
 - **Make your code easy to review**: Provide clear descriptions of the changes you're making and keep the scope of the changes small to facilitate code reviews and collaboration.
 - **Practice empathy in code reviews**: Offer constructive feedback and consider the context and challenges faced by the developer.
-- **Ask for help**: It's okay to not to know how to do things, you have teammates for a reason, ask for help.
+- **Ask for help**: It's okay to not to know things, you have teammates for a reason, ask for help.
 - **Practice active listening**: Truly listen to your teammates and value their perspectives.
 - **Over communicate**: Openly share progress and challenges with the team to improve transparency and collaboration.
 
