@@ -23,7 +23,7 @@ Here are some specific actions you can take:
 - **Prioritize user impact**: Focus on tasks that directly improve the end user's experience, if it doesn't, reconsider it's priority.
 - **User research:** Consider different user perspectives and conduct user research.
 - **Maintainable code**: Write code thinking about the person who will be maintaining it later, make sure it's easy to understand and document it properly.
-- **Test implementations**: Invest time in proper manual and automated testing to identify issues early on, and save the team from difficult debugging sessions down the line.
+- **Test implementations**: Invest time in proper manual and automated testing to identify issues early on, and save your teammates from late night or weekend debugging sessions down the line.
 - **Make your code easy to review**: Provide clear descriptions of the changes you're making and keep the scope of the changes small to facilitate code reviews and collaboration.
 - **Practice empathy in code reviews**: Offer constructive feedback and consider the context and challenges faced by the developer.
 - **Over communicate**: Openly share progress and challenges with the team to improve transparency and collaboration.
