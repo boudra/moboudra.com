@@ -4,16 +4,17 @@ description: "In the world of software development, it's easy to get caught up i
 date: "2023-06-11"
 ---
 
-In the world of software development, it's easy to get caught up in the lines of code and technical challenges. However, we must remember that software development is fundamentally about people.
+In the world of software development, it's easy to get caught up in the lines of code and technicalities. However, we must remember that software development is fundamentally about people.
 
-Software is built by people, for people. As software developers, the most important thing we can do, is to empathize with our own teammates and the end users.
+Software is built by people, for people. And when it comes to people, there is no soft skill more essential than empathy.
 
-Writing code can be fun in itself, it can be an outlet for creativity and intellectual stimulation, but code is just a tool, a means to an end.
+Empathy towards our teammates is crucial to build great software. By embracing empathy within our team, we can create and environment of collaboration, support, and shared understanding.
 
-It is a natural tendency to develop tunnel vision and become overly focused on the codebase, losing sight of the fact that our efforts should ultimately result in a meaningful impact for the end user.
+Equally significant is empathy towards end users, while writing code can be fun in itself and can be an outlet for intellectual stimulation and creativity, we have to remember that code is just a tool, a means to an end.
 
 The primary purpose of code is to build software that is useful and impactful. That's why it's important to strike a balance between the technical aspects of coding and the software's intended impact.
 
-The impact of software is directly linked to the usefulness of its functionality, which in turn, is a reflection of the capabilities of team that developed it. Ideally, a good team is one that collectively are focused on the impact and not on the code itself, and demonstrate empathy towards each other and the users they serve.
+It is a natural tendency to develop tunnel vision and become overly focused on the codebase, losing sight of the fact that our efforts should ultimately result in a meaningful impact for the end user.
 
-In summary, the focus on people, not the code, is key in the process of building software. It strengthens the relationships and collaboration among team members, while also ensuring that the software serves the needs and of end users
+Fostering empathy within your team is the key to building great software. It strengthens the relationships and collaboration among team members, while also ensuring that the software serves the needs and of end users
+
