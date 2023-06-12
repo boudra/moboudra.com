@@ -4,6 +4,16 @@ module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      maxWidth: {
+        prose: "80ch",
+      },
+      typography: {
+        DEFAULT: {
+          css: {
+            maxWidth: "100vw",
+          },
+        },
+      },
       colors: {
         primary: "#3d405b",
         secondary: "#e07a5f",
