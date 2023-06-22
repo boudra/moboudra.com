@@ -20,7 +20,9 @@ It is a natural tendency to develop tunnel vision and become overly focused on t
 
 One way to put this into practice is to consistently ask how your actions impact the rest of the team and the end users, and prioritize accordingly.
 
-Here are some example acts of empathy that I consider essential:
+# Putting it into practice
+
+I think when you put empathy at forefront of everything you do in software development, a lot of the practices that the industry agrees are "good", happen automatically:
 
 - **Prioritize user impact**: Focus on tasks that directly improve the end user's experience, if it doesn't, reconsider it's priority.
 - **User research:** Consider different user perspectives and conduct user research.
@@ -31,7 +33,6 @@ Here are some example acts of empathy that I consider essential:
 - **Ask for help**: It's okay to not to know things, you have teammates for a reason, ask for help.
 - **Practice active listening**: Truly listen to your teammates and value their perspectives.
 - **Over communicate**: Openly share progress and challenges with the team to improve transparency and collaboration.
-
 
 I am a big believer that when embracing empathy, building impactful software is inevitable.
 
