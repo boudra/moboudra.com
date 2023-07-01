@@ -7,6 +7,12 @@ export default function Projects(_props) {
       link: "https://konbert.com",
     },
     {
+      title: "WritePal",
+      description:
+        "Chrome extension that adds AI-powered writing assistance to all text fields.",
+      link: "https://writepal.app",
+    },
+    {
       title: "Kon",
       description:
         "Command line tool to convert between common data formats, written in Rust.",
@@ -26,12 +32,6 @@ export default function Projects(_props) {
       title: "Jaxon",
       description: "Fast streaming JSON parser for Elixir.",
       link: "https://github.com/boudra/jaxon",
-    },
-    {
-      title: "Tablepad (WIP)",
-      description:
-        "View and analyze structured data files securely from your own computer.",
-      link: "https://tablepad.io",
     },
   ];
 
