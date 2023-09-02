@@ -10,9 +10,9 @@ I am part of a generation that grew up with the internet; around the age of 16, 
 
 As time went on, I began using Google very often, I would say more than a dozen times a day. This led me to believe that I could figure anything out and, by extension, gave me a false sense of knowing everything. I was obivously wrong.
 
-Information is great, don't get me wrong, but for certain things, all information does is point to something; it is never the thing itself. It gives us a misguided sense of wisdom.
+Information is very useful, don't get me wrong, when that's all you want. However, expecting to gain wisdom only through absorbing information is not possible.
 
-You can read and watch countless films about skydiving, but unless you've actually experienced it, you'll never truly understand how it feels.
+You can read and watch countless films about skydiving, but unless you've actually experienced it, you'll never truly understand how it feels or acquire the wisdom that comes with doing it."
 
 Firsthand wisdom is acquired through personal experience, involving numerous failures, growth, and the accumulation of small lessons learned along the way. Giving all of this acquired wisdom to someone else is challenging; all you can do is describe it.
 
