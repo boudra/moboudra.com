@@ -12,7 +12,7 @@ As time went on, I began using Google very often, I would say more than a dozen 
 
 Information is very useful, don't get me wrong, when that's all you want. However, expecting to gain wisdom only through absorbing information is not possible.
 
-You can read and watch countless films about skydiving, but unless you've actually experienced it, you'll never truly understand how it feels or acquire the wisdom that comes with doing it."
+You can read and watch countless films about skydiving, but unless you've actually experienced it, you'll never truly understand how it feels or acquire the wisdom that comes with doing it.
 
 Firsthand wisdom is acquired through personal experience, involving numerous failures, growth, and the accumulation of small lessons learned along the way. Giving all of this acquired wisdom to someone else is challenging; all you can do is describe it.
 
