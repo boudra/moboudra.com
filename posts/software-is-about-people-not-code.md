@@ -20,22 +20,4 @@ It is a natural tendency to develop tunnel vision and become overly focused on t
 
 One way to put this into practice is to consistently ask how your actions impact the rest of the team and the end users, and prioritize accordingly.
 
-# Putting it into practice
-
-I think when you put empathy at forefront of everything you do in software development, a lot of the practices that the industry agrees are "good", happen automatically:
-
-- **Prioritize user impact**: Focus on tasks that directly improve the end user's experience, if it doesn't, reconsider it's priority.
-- **User research:** Consider different user perspectives and conduct user research.
-- **Maintainable code**: Write code thinking about the person who will be maintaining it later, make sure it's easy to understand. If you have to take a shortcut and implement less than ideal code, find a way to communicate it.
-- **Test implementations**: Invest time in proper manual and automated testing to identify issues early on, and save your teammates from late-night or weekend debugging sessions down the line.
-- **Make your code easy to review**: Provide clear descriptions of the changes you're making and keep the scope of the changes small to facilitate code reviews and collaboration.
-- **Practice empathy in code reviews**: Offer constructive feedback and consider the context and challenges faced by the developer.
-- **Ask for help**: It's okay to not to know things, you have teammates for a reason, ask for help.
-- **Practice active listening**: Truly listen to your teammates and value their perspectives.
-- **Over communicate**: Openly share progress and challenges with the team to improve transparency and collaboration.
-
-I am a big believer that when embracing empathy, building impactful software is inevitable.
-
-
-
 
