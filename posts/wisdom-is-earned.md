@@ -1,5 +1,5 @@
 ---
-title: "Wisdom is earned, not given"
+title: "Wisdom is Earned, Not Given"
 description: "While information can help show you the way, wisdom must be earned through experience."
 date: "2023-09-02"
 ---
