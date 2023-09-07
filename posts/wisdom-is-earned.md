@@ -14,7 +14,7 @@ Information is very useful, don't get me wrong, when that's all you want. Howeve
 
 You can read and watch countless films about skydiving, but unless you've actually experienced it, you'll never truly understand how it feels or acquire the wisdom that comes with doing it.
 
-Firsthand wisdom is acquired through personal experience, involving numerous failures, growth, and the accumulation of small lessons learned along the way. Giving all of this acquired wisdom to someone else is challenging; all you can do is describe it.
+Firsthand wisdom is acquired through personal experience, involving numerous failures, growth, and the accumulation of small lessons learned along the way. This wisdom helps you build a model of the world that will serve you for new challenges ahead. Giving all of this acquired wisdom to someone else is challenging; all you can do is describe it.
 
 While information can help show you the way, wisdom must be earned through experience.
 
