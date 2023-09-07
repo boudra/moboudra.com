@@ -4,6 +4,8 @@ description: "While information can help show you the way, wisdom must be earned
 date: "2023-09-02"
 ---
 
+I came across the quote "Wisdom is earned, not given", and it really resonated with me.
+
 In our current day and age, information is freely and widely available. You can immediately find content produced by some of the smartest people in their fields, whether it's books, articles, videos, or podcasts.
 
 I am part of a generation that grew up with the internet; around the age of 16, I learned that I could Google all my problems and find solutions to anything pretty quickly.
