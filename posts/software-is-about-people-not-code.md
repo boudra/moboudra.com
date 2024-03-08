@@ -1,5 +1,5 @@
 ---
-title: "Software is About People"
+title: "Building Exceptional Software is About People"
 description: "In the world of software development, it's easy to get caught up in the lines of code and technical challenges. However, we must remember that software development is fundamentally about people."
 date: "2023-06-11"
 ---
