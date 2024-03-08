@@ -18,7 +18,7 @@ However, now I understand that knowing how to take in that information and apply
 
 For example, you can watch countless videos about travel on the internet, but unless you've actually go and travel the world, you'll never truly understand how it feels or acquire the wisdom that comes with doing it.
 
-Wisdom is acquired through personal experience, involving failures and the all the small lessons learned along the way. This wisdom helps you build a model of the world that will serve you for new challenges ahead. Giving all of this acquired wisdom to someone else is difficult; all you can do is describe it.
+Wisdom is acquired through personal experience, involving failures and all the small lessons learned along the way. This wisdom helps you build a model of the world that will serve you for new challenges ahead. Giving all of this acquired wisdom to someone else is difficult; all you can do is describe it.
 
 While information can help show you the way, wisdom must be earned through experience.
 
