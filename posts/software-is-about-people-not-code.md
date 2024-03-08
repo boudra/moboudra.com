@@ -10,7 +10,7 @@ It wasn't until later that I realized the biggest impact I could have to the tea
 
 I think that a reason for this is that as developers, we value hard skills and knowledge above all else, such as knowing all the best practices or mastering your stack. Another reason is that it's hard not to reach for a technical solution when you have been doing it for so long, it becomes second nature.
 
-If you break down how developers spend their time building software, writing code in isolation is kind of the easy part, the hard part is coordinating with the team, tasks like figuring out how code you didn't write works, designing and deciding how we are going to build and deliver new features, sharing knowledge with teammates etc. Therefore it is fundamental that the team is able do these activities effectively, and your job as a manager is to create an environment where that's possible.
+If you break down how developers spend their time building software, writing code in isolation is kind of the easy part, the hard part is coordinating with the team, tasks like figuring out how code you didn't write works, designing and deciding how we are going to build and deliver new features, discussing ideas, sharing knowledge with teammates etc. Therefore it is fundamental that the team is able do these activities effectively, and your job as a manager is to create an environment where that's possible.
 
 I now believe that focusing on building a supportive environment where feedback is easily given and taken, where growth is encouraged is a much more powerful thing to be focusing your time on because, with time and patience you ultimately will get better software.
 
