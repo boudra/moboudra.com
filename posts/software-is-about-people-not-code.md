@@ -10,4 +10,6 @@ It wasn't until later that I realized the biggest impact I could have to the tea
 
 I believe the core issue is that as developers we value hard skills and knowledge above all else, such as knowing all the best practices or mastering your stack. While those things are important, I now believe that focusing on building a supportive environment where feedback is easily given and taken, where growth is encouraged is a much more powerful thing to be focusing your time on because, with time and patience you ultimately will get better software.
 
-I now prioritize positive team dynamics, because the best way to get exceptional software is through empathy, understanding, and mutual support.
+If you break down how developers spend their time building software, a lot of it is spent coordinating with the team, not writing code in isolation, tasks like figuring out how existing code works, designing and deciding how we are going to build and deliver new features, sharing knowledge with teammates etc. Therefore it is fundamental that the team is able do these activities effectively, and your job as a manager is to create an environment where that's possible.
+
+The software might be the end product, but it's the team that builds it, so focus on the team.
