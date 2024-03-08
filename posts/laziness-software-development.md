@@ -12,7 +12,7 @@ While this may be true, I don't think that the right conclusion to take from it 
 
 We understand laziness as always choosing the easy solution, which usually means the quickest solution that takes the least amount of effort.
 
-I now recognize that reframing laziness made me a much better developer.
+I now recognize that reframing laziness has made me a much better developer.
 
 It's easy to write new code that fulfills some current requirements; the hard part is ensuring it works well for times to come and that it is easy to maintain.
 
@@ -22,4 +22,4 @@ We often don't stop to re-evaluate past design decisions or how to evolve the co
 
 I'm not advocating to go to the other extreme and start spending days designing small changes to the codebase, be a lazy strategically, focus on reducing future effort, not current effort.
 
-Take a moment to think about how you can improve the codebase for everyone else working on it, not just about how to implement the current thing by doing the bare minimum
+Take a moment to think about how you can improve the codebase for your future self and everyone else working on it, not just about how to implement the current thing by doing the bare minimum.
