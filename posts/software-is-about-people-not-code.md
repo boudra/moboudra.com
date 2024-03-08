@@ -4,7 +4,7 @@ description: "In the world of software development, it's easy to get caught up i
 date: "2023-06-11"
 ---
 
-In my first year in a mangement position, I was mostly still thinking like a developer, my focus was always on the code. Whenever there was a problem, technical or not, my immediate response was find a technical solution. I was mostly supporting the team with mentoring, facilitating design discussions and such.
+In my first year in a mangement position, I was mostly still thinking like a developer, my focus was always on the code. Whenever there was a problem, technical or not, my immediate response was to find a technical solution. I was mostly supporting the team with mentoring, facilitating design discussions and such.
 
 It wasn't until later that I realized the biggest impact I could have to the team was with focusing on the people aspect, this might sound obvious to some, but I think coming from an engineering background this is a difficult shift, and I've noticed that this is a common issue with new engineering managers, they find it hard to turn off their "developer brain".
 
