@@ -10,13 +10,15 @@ In our current day and age, information is freely and widely available. You can 
 
 I am part of a generation that grew up with the internet; during my teenage years, I learned that I could Google all my problems and find solutions to anything pretty quickly.
 
-As time went on, I began using Google very often, I would say more than a dozen times a day. This led me to believe that I could figure anything out and, by extension, gave me a false sense of knowing everything. I was obivously wrong.
+As time went on, I began using Google very often, I would say more than a dozen times a day. Knowing that I could figure out any fact about anything gave me a false sense of knowing everything. I was obivously wrong.
 
-Information is very useful, don't get me wrong, when that's all you want. However, expecting to gain wisdom only through absorbing information is not possible.
+I also gave a lot of importance to knowing as many facts as possible, I tought being wise or knowlegable was about memorising information.
 
-You can read and watch countless films about skydiving, but unless you've actually experienced it, you'll never truly understand how it feels or acquire the wisdom that comes with doing it.
+However, now I understand that knowing how to take in that information and applying it to life in a practical way is a completely different thing. And you cannot learn that by just absorbing information.
 
-Firsthand wisdom is acquired through personal experience, involving numerous failures, growth, and the accumulation of small lessons learned along the way. This wisdom helps you build a model of the world that will serve you for new challenges ahead. Giving all of this acquired wisdom to someone else is challenging; all you can do is describe it.
+For example, you can watch countless videos about travel on the internet, but unless you've actually go and travel the world, you'll never truly understand how it feels or acquire the wisdom that comes with doing it.
+
+Wisdom is acquired through personal experience, involving failures and the all the small lessons learned along the way. This wisdom helps you build a model of the world that will serve you for new challenges ahead. Giving all of this acquired wisdom to someone else is difficult; all you can do is describe it.
 
 While information can help show you the way, wisdom must be earned through experience.
 
