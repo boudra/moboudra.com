@@ -20,6 +20,6 @@ I still consider myself lazy, but in a different way. I don't want to spend Frid
 
 We often don't stop to re-evaluate past design decisions or how to evolve the codebase to match new requirements. We usually design software when we first write it and then just tweak it to do the new thing we want it to do, so we end up with fragile software that is essentially a pile of quick fixes.
 
-I'm not advocating to go to the other extreme and start spending days designing small changes to the codebase, be lazy strategically, focus on reducing future effort, not current effort.
+I'm not advocating to go to the other extreme and start spending days designing small changes to the codebase, just be intentionally lazy, and focus on reducing future effort, not current effort.
 
 Take a moment to think about how you can improve the codebase for your future self and everyone else working on it, not just about how to implement the current thing by doing the bare minimum.
