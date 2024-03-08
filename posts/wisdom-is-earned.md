@@ -8,7 +8,7 @@ I came across the quote "Wisdom is earned, not given", and it really resonated w
 
 In our current day and age, information is freely and widely available. You can immediately find content produced by some of the smartest people in their fields, whether it's books, articles, videos, or podcasts.
 
-I am part of a generation that grew up with the internet; around the age of 16, I learned that I could Google all my problems and find solutions to anything pretty quickly.
+I am part of a generation that grew up with the internet; during my teenage years, I learned that I could Google all my problems and find solutions to anything pretty quickly.
 
 As time went on, I began using Google very often, I would say more than a dozen times a day. This led me to believe that I could figure anything out and, by extension, gave me a false sense of knowing everything. I was obivously wrong.
 
