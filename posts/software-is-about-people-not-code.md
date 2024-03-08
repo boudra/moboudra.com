@@ -4,20 +4,10 @@ description: "In the world of software development, it's easy to get caught up i
 date: "2023-06-11"
 ---
 
-When I first started building software, my focus was always on the code. Whenever there was a problem, technical or not, my immediate response was find a solution by throwing code at it.
+In my first year in a mangement position, I was mostly still thinking like a developer, my focus was always on the code. Whenever there was a problem, technical or not, my immediate response was find a solution by throwing code at it. I was mostly supporting the team with mentoring, facilitating design discussions and such.
 
-I realise now that software development is not really about the code itself, but about people. The code comes after.
+It wasn't until later that I realized the biggest impact I could have to the team was with focusing on the people aspect, this might sound obvious to some, but I think coming from an engineering background this is a difficult shift, and I've noticed that this is a common issue with new engineering managers, they find it hard to turn off their "developer brain".
 
-Software is built by people, for people. And when it comes to people, there is no soft skill more essential than empathy.
+I believe the core issue is that as developers we value hard skills and knowledge above all else, such as knowing all the best practices or mastering your stack. While those things are important, I now believe that focusing on building a supportive environment where feedback is easily given and taken, where growth is encouraged is a much more powerful thing to be focusing your time on because, with time and patience you ultimately will get better software.
 
-Empathy towards our teammates is crucial to build great software. By embracing empathy within our team, we can create and environment of collaboration, support, and shared understanding.
-
-Equally significant is empathy towards end users, while writing code can be fun in itself and can be an outlet for intellectual stimulation and creativity (and it's totally okay to build software just for the sake of it), we have to remember that code is just a tool, a means to an end.
-
-The primary purpose of code is to build software that is useful and impactful. That's why it's important to strike a balance between the technical aspects of coding and the software's intended impact.
-
-It is a natural tendency to develop tunnel vision and become overly focused on the codebase, losing sight of the fact that our efforts should ultimately result in a meaningful impact for the end user.
-
-One way to put this into practice is to consistently ask how your actions impact the rest of the team and the end users, and prioritize accordingly.
-
-
+Lately I haven't been working in managment positions as much, but these are all learnings that I take with me, and it means that regardless of my role I prioritize positive team dynamics, because the best way to get exceptional software is through empathy, understanding, and mutual support.
