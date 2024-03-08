@@ -1,5 +1,5 @@
 ---
-title: "Misguided Laziness in Software Development"
+title: "Reframing Laziness in Software Development"
 description: "Laziness being a virtue is a common theme in software development. I think it's misguided."
 date: "2024-03-07"
 ---
