@@ -4,19 +4,13 @@ export default function Projects(_props) {
       title: "Konbert",
       description:
         "Convert between common data formats automatically from your browser.",
-      link: "https://konbert.com",
+      link: "https://konbert.com/convert",
     },
     {
       title: "WritePal",
       description:
         "Chrome extension that adds AI-powered writing assistance to all text fields.",
       link: "https://writepal.app",
-    },
-    {
-      title: "Kon",
-      description:
-        "Command line tool to convert between common data formats, written in Rust.",
-      link: "https://github.com/boudra/kon",
     },
     {
       title: "Breathe",
