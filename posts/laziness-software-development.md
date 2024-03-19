@@ -16,10 +16,10 @@ I now recognize that reframing laziness has made me a much better developer.
 
 It's easy to write new code that fulfills some current requirements; the hard part is ensuring it works well for times to come and that it is easy to maintain.
 
-I still consider myself lazy, but in a different way. I don't want to spend Friday evenings debugging buggy code, I also don't want to spend hours manually testing an application because a small change could break the whole thing.
+It would be great to write software once and be done, but the reality is that most of the time software will need to be modified at some point or another, usually to fix problems or extend it's functionality, and we often don't stop to re-evaluate past design decisions or how to evolve the codebase to match new requirements. We usually design software when we first write it and then just tweak it to do the new thing we want it to do, so we end up with fragile software that is essentially a pile of quick fixes.
 
-We often don't stop to re-evaluate past design decisions or how to evolve the codebase to match new requirements. We usually design software when we first write it and then just tweak it to do the new thing we want it to do, so we end up with fragile software that is essentially a pile of quick fixes.
+I still consider myself lazy, but in a different way. I don't want to spend Friday evenings debugging problems, I also don't want to spend hours manually testing an application because I fear a small change could break the whole thing.
 
-I'm not advocating to go to the other extreme and over-engineer the codebase, at the end of the day code is a means to an end and that end always takes priority. Just be strategically lazy, and focus on reducing future effort, not current effort.
+I'm not advocating to over engineer the codebase and obsess over code quality, at the end of the day, code is a means to an end and that end always takes priority in my opinion. Just be strategically lazy, and when possible, focus on reducing future effort, not current effort.
 
 Take a moment to think about how you can improve the codebase for your future self and everyone else working on it, not just about how to implement the current thing by doing the bare minimum.
