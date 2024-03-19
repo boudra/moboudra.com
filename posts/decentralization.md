@@ -1,7 +1,7 @@
 ---
 title: "The Human Tendency Towards Centralization"
 description: "Why do humans prefer centralization if nature is decentralized?"
-date: "2024-03-07"
+date: "2024-03-19"
 ---
 
 I have been working as part of a DAO for a year now and have been closely observing the push for decentralization in the web space. One thing that has become apparent to me is that we humans, if left unchecked, tend to lean towards centralization.
