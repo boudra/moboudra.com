@@ -16,8 +16,8 @@ Humans, similarly to ants, we move to cities because we have a better chance of 
 
 Even in web3, which is rooted in decentralization, a similar pattern emerges. Nowadays, all Ethereum transactions seem to go through a handful of gateway companies, and normal users don't really run their own nodes, but instead use centralized ones.
 
-I don't think this is a problem with a specific human tendency towards centralization, but rather it's derived from the universal tendency to choose the path of least resistance.
+I don't think this is a fundamental human tendency towards centralization, but rather it's derived from the universal tendency to choose the path of least resistance.
 
-I believe Ethereum is a step in the right direction, because at least, it gives us the power to decentralize systems and encode the rules of decentralization within the system itself, preventing our little human brains from messing things up, which is great.
+Ethereum is still a step in the right direction, because at least, it gives us the power to decentralize systems and encode the rules of decentralization within the system itself, preventing our little human brains from messing things up, which is great.
 
-So to me, the tendency towards centralization seems to be a UX problem. We should build decentralized systems that are as convenient to use as centralized ones, I don't see any reason why that wouldn't be possible, it just requires us to work together, which is easier said than done :)
+I believe that there's no reason why we cannot have decentralized systems that offer the same convenience as centralized ones, it might be harder, yes, but not impossible.
