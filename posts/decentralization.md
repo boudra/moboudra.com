@@ -16,7 +16,7 @@ Humans, similarly to ants, we move to cities because we have a better chance of 
 
 Even in web3, which is rooted in decentralization, a similar pattern emerges. Nowadays, all Ethereum transactions seem to go through a handful of gateway companies, and normal users don't really run their own nodes, but instead use centralized ones.
 
-I don't think this is a problem with a specific human tendency towards centralization, but rather it's derived from the human tendency to choose the path of least resistance.
+I don't think this is a problem with a specific human tendency towards centralization, but rather it's derived from the universal tendency to choose the path of least resistance.
 
 I believe Ethereum is a step in the right direction, because at least, it gives us the power to decentralize systems and encode the rules of decentralization within the system itself, preventing our little human brains from messing things up, which is great.
 
