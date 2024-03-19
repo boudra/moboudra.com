@@ -4,7 +4,7 @@ description: "In the world of software development, it's easy to get caught up i
 date: "2023-06-11"
 ---
 
-In the initial months of my management role, I was mostly still thinking like a developer, my focus was always on the code. Whenever there was a problem, technical or not, my immediate response was to come up with a technical solution. I was mostly spending my time architecting, reviewing code, writing style guides and similar tasks. Those things, while still important, I don't think are the way to build exceptional software.
+In the initial months of my CTO role at a startup, I was mostly thinking like a developer, my focus was always on code. Whenever there was a problem, technical or not, my immediate response was to come up with a technical solution. I was mostly spending my time architecting, reviewing code, writing style guides and similar tasks. Those things, while still important, I don't think are the way to build exceptional software.
 
 It wasn't until later that I realized the biggest impact I could have to the team was with focusing on the people aspect, this might sound obvious to some, but I think coming from an engineering background this is a difficult shift to do, and I've noticed that this is a common issue with new engineering managers, they find it hard to turn off their "developer brain".
 
