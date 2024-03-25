@@ -21,8 +21,8 @@ export default function Home({ posts }) {
           and robust software.
         </p>
         <p className="pb-4">
-          I use this space to share the things I make and write about the things
-          I learn.
+          I use this space to share the things I make, and write about the
+          things I learn.
         </p>
       </div>
       <div className="pb-12">
