@@ -16,7 +16,9 @@ I now recognize that reframing laziness has made me a much better developer.
 
 It's easy to write new code that fulfills some current requirements; the hard part is ensuring it works well for times to come and that it is easy to maintain.
 
-It would be great to write software once and be done, but the reality is that most of the time software will need to be modified at some point or another, usually to fix problems or extend it's functionality, and we often don't stop to re-evaluate past design decisions or how to evolve the codebase to match new requirements. We usually design software when we first write it and then just tweak it to do the new thing we want it to do, so we end up with fragile software that is essentially a pile of quick fixes.
+It would be great to write software once and be done, but the reality is that most of the time software will need to be modified at some point or another, usually to fix problems or extend it's functionality, and when we do that, we often don't stop to re-evaluate past design decisions or how to evolve the codebase to match new requirements.
+
+We usually design software when we first write it, and then just tweak it to do the new thing we want it to do, so we end up with fragile software that is essentially a pile of quick fixes, with a lot of complexity baggage and dependencies which might not be needed anymore.
 
 I still consider myself lazy, but in a different way. I don't want to spend Friday evenings debugging problems, I also don't want to spend hours manually testing an application because I fear a small change could break the whole thing.
 
