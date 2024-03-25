@@ -14,7 +14,7 @@ The hacking type prioritizes delivering value and usually doesn't place much imp
 
 On the other hand, the overengineering type prioritizes code quality above all else, sometimes forgetting that code serves a purpose. They enjoy building functional and elegant systems that are easy to maintain. While this approach is great for delivering scalable and maintainable solutions, it can slow down the development process, reducing speed to market and the ability to adapt to feedback from users.
 
-I wouldn't say they're neccessarily right or wrong. But as with everything, there are trade-offs, and it all depends on the timing and context.
+I wouldn't say that one neccessarily right and the other one wrong. But as with everything, there are trade-offs, and it all depends on the timing and context.
 
 I personally think a good engineer is someone who can quickly deliver high quality software by mixing both approaches when they make sense.
 
@@ -22,7 +22,7 @@ So, if doing both is good, how do we choose when to hack things together or over
 
 Having an understanding of the development life-cycle, the project's end goal, target audience, and intended lifespan provides essential context for making this decision.
 
-Early-stage projects that are looking for funding or want to test hypotheses quickly, really benefit from hacking things together. However, it is important to know when it's the right time to transition into a more engineered approach if the feedback indicates potential for growth.
+Early-stage projects that are looking for funding or want to test hypotheses quickly, really benefit from hacking things together. However, it is important to know when it's the right time to transition into a more engineered approach if the product starts growing in usage.
 
 Established projects on the other hand, generally favour a more engineered approach to manage complexity and scale, but at the same time, it is important to innovate, which often involves fast iterations and hacking. The balance here would be to couple these fast iterations with dedicated time for stabilizing new functionality, via refactoring, which is crucial for long term sustainability.
 
