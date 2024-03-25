@@ -8,7 +8,7 @@ Laziness being a good thing is a common and frequent theme in software developme
 
 > I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.
 
-While this may be true, I don't think that the right conclusion to take from it is that being a lazy software developer who avoids effort is somehow better.
+While in a sense this may be true, I don't think that the right conclusion to take from it is that being a lazy software developer who avoids effort is somehow better.
 
 We understand laziness as always choosing the easy solution, which usually means the quickest solution that takes the least amount of effort.
 
