@@ -20,7 +20,7 @@ It would be great to write software once and be done, but the reality is that mo
 
 We usually design software when we first write it, and then just tweak it to do the new thing we want it to do, so we end up with fragile code that is essentially a pile of quick fixes, with a lot of complexity and dependency bagagge which might not be needed anymore.
 
-Fragile code leads to buggy software that is hard to change, making for a frustrating user experience and slowing down the effectivenes of the people working on the software itself.
+Fragile code leads to buggy software that is hard to change, making for a frustrating user experience and a slow development cycle.
 
 I still consider myself lazy, but in a different way. I don't want to spend Friday evenings debugging problems, I also don't want to spend hours manually testing an application because I fear a small change could break the whole thing.
 
