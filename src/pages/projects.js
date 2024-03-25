@@ -1,8 +1,7 @@
 const currentProjects = [
   {
     title: "Konbert",
-    description:
-      "Convert between common data formats automatically from your browser.",
+    description: "Easily convert between data formats from your browser.",
     link: "https://konbert.com/convert",
   },
   {
@@ -59,7 +58,7 @@ function ProjectsList({ projects }) {
           >
             {project.title}
           </a>
-          <div className="text-primary/40">{project.description}</div>
+          <div className="text-primary/60">{project.description}</div>
         </div>
       ))}
     </>
