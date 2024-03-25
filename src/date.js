@@ -1,7 +1,7 @@
 export function formatDate(date) {
-  const day = date.getDate();
-  const month = date.toLocaleString("default", { month: "long" });
+  const day = date.getDate().toString().padStart(2, "0");
+  const month = date.toLocaleString("default", { month: "long" }).slice(0, 3);
   const year = date.getFullYear();
 
-  return `${month} ${day}, ${year}`;
+  return `${day} ${month}, ${year}`;
 }

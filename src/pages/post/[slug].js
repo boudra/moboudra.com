@@ -53,7 +53,9 @@ export default function PostPage({ meta, content }) {
         <h1 className="font-display text-primary text-3xl mb-2 font-bold">
           {meta.title}
         </h1>
-        <span className="text-xs text-slate-400">{formatDate(date)}</span>
+        <span className="text-sm font-mono text-primary/40">
+          {formatDate(date)}
+        </span>
       </div>
       <div
         className="prose mx-auto py-8 prose-headings:text-primary prose-headings:underline prose-headings:decoration-secondary/50 prose-headings:decoration-2 prose-headings:font-display prose-lg hover:prose-a:text-secondary prose-a:primary prose-headings:font-semibold prose-h1:text-2xl prose-h2:text-2xl prose-h1:mt-10"
