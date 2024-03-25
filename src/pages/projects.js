@@ -17,6 +17,7 @@ const currentProjects = [
         Collaborating with{" "}
         <a
           className="underline"
+          rel="noreferrer"
           href="https://renegalindo.com/"
           target="_blank"
         >
