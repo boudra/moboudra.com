@@ -10,7 +10,7 @@ I have gone through different phases of this spectrum myself, with the frustrati
 
 The main difference between these two types of developers lies in their beliefs and where they choose to focus their energy.
 
-The hacking type prioritizes delivering value and usually doesn't place much importance on the codebase itself, seeing the code as a means to an end, something that you use to accomplish a goal. While this approach is great for delivering value quickly, it can lead to code that is buggy and unmaintainable, causing long-term issues that are very costly to resolve.
+The hacking type prioritizes delivering value and usually doesn't place much importance on the codebase itself, seeing the code as a means to an end, something that you use to accomplish a goal. While this approach is great for delivering value quickly in the short term, it can lead to code that is buggy and unmaintainable, causing long-term issues that are very costly to resolve.
 
 On the other hand, the overengineering type prioritizes code quality above all else, sometimes forgetting that code serves a purpose. They enjoy building functional and elegant systems that are easy to maintain. While this approach is great for delivering scalable and maintainable solutions, it can slow down the development process, reducing speed to market and the ability to adapt to feedback from users.
 
