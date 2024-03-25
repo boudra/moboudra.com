@@ -6,7 +6,7 @@ date: "2024-03-25"
 
 During my software engineering career, I have noticed a clear distinction between developers who prefer to hack things together and those who favour overengineering.
 
-I have gone through different phases of this spectrum myself, and I now believe that I have settled on a balanced approach to software development.
+I have gone through different phases of this spectrum myself, with one usually making me overcompensate and becoming the other. I now believe that I have settled on a balanced approach to software development, one that fits my preferences.
 
 The main difference between these two types of developers lies in their beliefs and where they choose to focus their energy.
 
@@ -33,4 +33,3 @@ Business pressures, such as limited budget and time should also greatly influenc
 At the team level, different people have different abilities and preferences, recognizing this and using it to everyone's advantage is also important, given the above, you can assign people who enjoy overengineering to work on the core functionality and the hacking types to do rapid prototyping.
 
 Ultimately, developers and engineering leaders should remain fluid by identifying each methodology's strengths and weaknesses and choosing accordingly depending on the context.
-
