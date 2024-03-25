@@ -22,8 +22,8 @@ We usually design software when we first write it, and then just tweak it to do 
 
 Fragile code leads to buggy software that is hard to change, making for a frustrating user experience and a slow development cycle.
 
-I still consider myself lazy, but in a different way. I don't want to spend Friday evenings debugging problems, I also don't want to spend hours manually testing an application because I fear a small change could break the whole thing.
+I still consider myself lazy, but in a different way. I do not want to speend weeks developing a feature that should take days, I do not want to spend Friday evenings debugging problems, I also do not want to spend hours manually testing an application because I fear a small change could break the whole thing.
 
-I'm not advocating to over engineer the codebase and obsess over code quality, at the end of the day, code is a means to an end and that end always takes priority in my opinion. Just be strategically lazy, when possible, focus on reducing future effort, not current effort.
+I'm not advocating to over engineer the codebase and obsess over code quality, at the end of the day, code is a means to an end, and that end always takes priority in my opinion. Just be strategically lazy, when possible, focus on reducing future effort, not current effort.
 
 Take a moment to think about how you can improve the codebase for your future self and everyone else working on it, not just about how to implement the current thing by doing the bare minimum.
