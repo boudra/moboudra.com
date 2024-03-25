@@ -28,7 +28,10 @@ export default function Home({ posts }) {
       <div className="pb-12">
         <div className="pb-6">
           {posts.map(({ slug, frontmatter }) => (
-            <div key={slug} className="pb-2 flex items-center gap-x-4">
+            <div
+              key={slug}
+              className="pb-2 flex flex-col-reverse items-start md:flex-row md:items-center gap-x-4"
+            >
               <div className="text-sm text-primary/40 font-mono">
                 {formatDate(new Date(frontmatter.date))}
               </div>

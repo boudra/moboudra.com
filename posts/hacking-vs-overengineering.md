@@ -1,12 +1,12 @@
 ---
-title: "Hack It or Overengineer It?"
+title: "Hack or Overengineer?"
 description: "Laziness being a virtue is a common theme in software development. I think it's misguided."
 date: "2024-03-25"
 ---
 
 During my software engineering career, I have noticed a clear distinction between developers who prefer to hack things together and those who favour overengineering.
 
-I have gone through different phases of this spectrum myself, with one usually making me overcompensate and becoming the other. I now believe that I have settled on a balanced approach to software development.
+I have gone through different phases of this spectrum myself, with the results of one usually making me overcompensate and becoming the other. I now believe that I have settled on a balanced approach to software development.
 
 The main difference between these two types of developers lies in their beliefs and where they choose to focus their energy.
 
