@@ -14,7 +14,7 @@ We understand laziness as always choosing the easy solution, which usually means
 
 I now recognize that reframing laziness has made me a much better developer.
 
-It's easy to write new code that fulfills some current requirements; the hard part is ensuring it works well for times to come and that it is easy to maintain.
+It's easy to write new code that fulfills some current requirements; the hard part is ensuring it can be extended and maintained easily.
 
 It would be great to write software once and be done, but the reality is that most of the time software will need to be modified at some point or another, usually to fix problems or extend it's functionality, and when we do that, we often don't stop to re-evaluate past design decisions or how to evolve the codebase to match new requirements.
 
