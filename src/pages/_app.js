@@ -30,7 +30,7 @@ function MyApp({ Component, pageProps }) {
                   : "decoration-transparent text-primary/70 hover:text-primary "
               }`}
             >
-              <Link href="/">Posts</Link>
+              <Link href="/">Home</Link>
             </div>
             <div
               className={`font-display text-lg underline decoration-2 ${
@@ -46,15 +46,7 @@ function MyApp({ Component, pageProps }) {
         <main>
           <Component {...pageProps} />
         </main>
-        <footer className="mt-8 py-8 text-center text-xs text-primary/50">
-          <p>&copy; 2022 Mohamed Boudra</p>
-          <a
-            className="hover:text-secondary pt-2 text-primary/40"
-            href="https://github.com/boudra/moboudra.com"
-          >
-            Source code
-          </a>
-        </footer>
+        <footer className="mt-8 py-8 text-center text-xs text-primary/50"></footer>
       </div>
     </>
   );
