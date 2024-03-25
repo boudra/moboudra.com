@@ -22,6 +22,6 @@ Ethereum is still a step in the right direction, because it is a tool that gives
 
 Back to my original point, I don't think that we have a fundamental human tendency towards centralization, but rather that it's derived from the universal tendency to choose the path of least resistance, and centralization does seem easier in the short term.
 
-That is why I think it's important that we take a step back, and rethink traditionally centralized systems that would be more beneficial to us if they were decentralized, because those systems might not have emerged because they were the best solution for us, but because they were the path of least resistance at the time.
+That is why I think it's important that we take a step back, and rethink traditionally centralized systems that would be more beneficial to us if they were decentralized, because those systems might not have emerged because they were the best solution, but because they were the path of least resistance at the time.
 
 Another conclusion to take from this, is that because of the tendency to choose the path of least resistance, an intentional and considerable amount of effort has to be put into moving towards decentralization, especially into building systems that are as easy to use as centralized ones.
