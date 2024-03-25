@@ -14,7 +14,7 @@ Although you could argue that living beings join forces to improve their chance 
 
 Humans, similarly to ants, move to cities because we have a better chance of thriving as a community, but over time, we introduce central governments that make decisions for us, and centralized services like law enforcement or health care.
 
-The same happens with the internet, we have mostly centralized into a handful of services. It's more convenient to Amazon than to find a separate website that might not have your credit card or address details. Plus, the fact that so many people use the same service means economies of scale apply, and centralized services can offer the same products but at a much lower cost than services with less usage.
+The same happens with the internet, we have mostly centralized into a handful of services. It's more convenient to use Amazon than to find a local website that might not have your credit card or address details. Plus, the fact that so many people use the same service means economies of scale apply, and centralized services can offer the same products but at a much lower cost than services with less usage.
 
 Even in web3, which is rooted in decentralization, a similar pattern emerges. Nowadays, all Ethereum transactions seem to go through a handful of gateway companies, small communities or normal users don't really run their own nodes, but instead use centralized ones.
 
