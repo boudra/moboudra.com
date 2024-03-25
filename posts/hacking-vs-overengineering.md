@@ -16,7 +16,7 @@ On the other hand, the overengineering type prioritizes code quality above all e
 
 I wouldn't say they're neccessarily right or wrong. But as with everything, there are trade-offs, and it all depends on the timing and context.
 
-I think the hallmark of a good developer is someone who can quickly deliver high quality software by mixing both approaches. On the other hand, I find it very hard to work with someone who is rigid in their approach and can only work in one way.
+I personally think a good engineer is someone who can quickly deliver high quality software by mixing both approaches when they make sense.
 
 So, if doing both is good, how do we choose when to hack things together or overengineer?
 
