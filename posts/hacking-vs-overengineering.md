@@ -28,7 +28,7 @@ Established projects on the other hand, generally favour a more engineered appro
 
 At the functionality level, different aspects of the project might require different approaches. The core functionalities that are critical to the business, high risk areas like security or data privacy, deserve a more engineered approach.
 
-Business pressures, such as limited budget and time should also greatly influence your to prioritize the short term, as the survival of the business might depend on your ability to deliver fast, and engineering for a future that might never come is wasted effort.
+Business pressures, such as limited budget and time, should also greatly influence your to prioritize the short term, as the survival of the business might depend on your ability to deliver fast, and engineering for a future that might never come is wasted effort.
 
 At the team level, different people have different abilities and preferences, recognizing this and using it to everyone's advantage is also important, given the above, you can assign people who enjoy overengineering to work on the core functionality and the hacking types to do rapid prototyping.
 
