@@ -14,11 +14,11 @@ export default function Home({ posts }) {
   return (
     <div className="max-w-prose mx-auto px-4">
       <div className="text-primary pb-6 mb-10 text-md border-b border-primary/5 font-mono">
-        Hi, I'm Mo, a technical lead and generalist passionate about the digital
-        product lifecycle - from identifying user needs, to delivering robust
-        software with great UX. I've been building things for quite some time,
-        some of which you can find on this site. I also write about things that
-        interest me.
+        Hi, I&apos;m Mo, a technical lead and generalist passionate about the
+        digital product lifecycle - from identifying user needs, to delivering
+        robust software with great UX. I&apos;ve been building things for quite
+        some time, some of which you can find on this site. I also write about
+        things that interest me.
       </div>
       <div className="pb-12">
         <div className="pb-6">
