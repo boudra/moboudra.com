@@ -72,13 +72,15 @@ export default function Projects(_props) {
     <div className="max-w-prose mx-auto px-4">
       <div className="pb-12">
         <div className="pb-8 mb-8 border-b border-primary/5 text-lg space-y-2">
-          <p>These are the projects that I am still actively maintaining.</p>
           <p>
-            Find some more open-source projects on my{" "}
+            These are the projects that I&apos;m still actively maintaining.
+          </p>
+          <p>
+            You can find some more open-source projects on my{" "}
             <a className="underline" href="https://github.com/boudra">
               GitHub
             </a>
-            , and find out more about my past roles on{" "}
+            , and learn more about my past roles on{" "}
             <a className="underline" href="https://www.linkedin.com/in/boudra/">
               LinkedIn
             </a>
