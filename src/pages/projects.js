@@ -8,8 +8,8 @@ const currentProjects = [
   {
     title: "Tablepad",
     description:
-      "View and analyze common data formats directly in your browser. Currently a feature within Konbert, I'm planning to spin this off into its own product focused on AI data analysis.",
-    link: "https://konbert.com/viewer",
+      "Analyze and generate charts from common data formats using AI directly in your browser. No code required.",
+    link: "https://tablepad.io",
   },
   {
     title: "Blank Page",
