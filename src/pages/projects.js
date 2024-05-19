@@ -2,7 +2,7 @@ const currentProjects = [
   {
     title: "Konbert",
     description:
-      "Profitable cloud-based data converter supporting all commonly used data formats. The paid version allows for converting large files.",
+      "Cloud-based data converter supporting most commonly used data formats. Converting large files with the paid version.",
     link: "https://konbert.com/convert",
   },
   {
