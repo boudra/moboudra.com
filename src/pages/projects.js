@@ -2,13 +2,13 @@ const currentProjects = [
   {
     title: "Konbert",
     description:
-      "Cloud-based data converter supporting most commonly used data formats. Converting large files with the paid version.",
+      "Cloud-based data converter supporting most commonly used data formats.",
     link: "https://konbert.com/convert",
   },
   {
     title: "Tablepad",
     description:
-      "Analyze and generate charts from common data formats using AI directly in your browser. No code required.",
+      "Analyze and generate charts from common data formats using AI directly in your browser.",
     link: "https://tablepad.io",
   },
   {
@@ -24,7 +24,7 @@ const currentProjects = [
         >
           René Galindo
         </a>{" "}
-        on a highly popular, distraction-free and minimal writing app.
+        on a distraction-free and minimal writing app.
       </span>
     ),
     link: "https://blank.page",
