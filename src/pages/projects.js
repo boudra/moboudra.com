@@ -76,7 +76,7 @@ export default function Projects(_props) {
             These are the projects that I&apos;m still actively maintaining.
           </p>
           <p>
-            You can find more open-source projects on my{" "}
+            Find more open-source projects on my{" "}
             <a className="underline" href="https://github.com/boudra">
               GitHub
             </a>
