@@ -1,15 +1,8 @@
 const currentProjects = [
   {
     title: "Konbert",
-    description:
-      "Cloud-based data converter supporting most commonly used data formats.",
-    link: "https://konbert.com/convert",
-  },
-  {
-    title: "Tablepad",
-    description:
-      "Analyze and generate charts from common data formats using AI directly in your browser.",
-    link: "https://tablepad.io",
+    description: "Data platform for visual data exploration and conversion.",
+    link: "https://konbert.com",
   },
   {
     title: "Blank Page",

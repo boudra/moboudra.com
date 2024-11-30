@@ -14,14 +14,22 @@ export default function Home({ posts }) {
   return (
     <div className="max-w-prose mx-auto px-4">
       <div className="text-primary pb-6 mb-10 border-b border-primary/5 text-lg">
-        Hi, I&apos;m Mo, a technical lead and generalist with over 15 years of
-        experience. I am passionate about the entire digital product lifecycle -
-        from identifying user needs, to delivering robust software with great
-        UX. You can find some of my active projects{" "}
+        Hi, I&apos;m Mo, a technical leader with over 15 years of experience. I
+        am passionate about building and shipping great digital products.
+        Currently, I&apos;m bootstrapping{" "}
+        <a
+          href="https://konbert.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline"
+        >
+          Konbert
+        </a>
+        . You can find my current active projects{" "}
         <Link href="/projects">
           <a className="underline">here</a>
         </Link>
-        . I sometimes write about things that interest me.
+        .
       </div>
       <div className="pb-12">
         <div className="pb-6">
