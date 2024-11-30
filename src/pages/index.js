@@ -22,7 +22,11 @@ export default function Home({ posts }) {
 
         <p>
           I enjoy collaborating with pragmatic teams that ship fast and with
-          purpose. If you&apos;d like to work together, feel free to reach out.
+          purpose. If you&apos;d like to work together,{" "}
+          <a href="mailto:mohamed@konbert.com" className="underline">
+            reach out
+          </a>
+          .
         </p>
 
         <p>
