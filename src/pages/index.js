@@ -13,23 +13,30 @@ export async function getStaticProps() {
 export default function Home({ posts }) {
   return (
     <div className="max-w-prose mx-auto px-4">
-      <div className="text-primary pb-6 mb-10 border-b border-primary/5 text-lg">
-        Hi, I&apos;m Mo, a technical leader with over 15 years of experience. I
-        am passionate about building and shipping great digital products.
-        Currently, I&apos;m bootstrapping{" "}
-        <a
-          href="https://konbert.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="underline"
-        >
-          Konbert
-        </a>
-        . You can find my current active projects{" "}
-        <Link href="/projects">
-          <a className="underline">here</a>
-        </Link>
-        .
+      <div className="text-primary pb-6 mb-10 border-b border-primary/5 text-lg space-y-4">
+        <p>
+          Hi, I&apos;m Mo, a technical leader with over 15 years of experience
+          across various industries. I am passionate about building and shipping
+          great digital products.
+        </p>
+
+        <p>
+          I enjoy collaborating with pragmatic teams that ship fast and with
+          purpose. If you&apos;d like to work together, feel free to reach out.
+        </p>
+
+        <p>
+          Currently, I&apos;m bootstrapping{" "}
+          <a
+            href="https://konbert.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline"
+          >
+            Konbert
+          </a>
+          .
+        </p>
       </div>
       <div className="pb-12">
         <div className="pb-6">
