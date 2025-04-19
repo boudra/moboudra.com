@@ -5,7 +5,7 @@ const currentProjects = [
     link: "https://table.studio",
   },
   {
-    title: "Blank Page",
+    title: "blank.page",
     description: (
       <span>
         Collaborating with{" "}
