@@ -15,31 +15,22 @@ export default function Home({ posts }) {
     <div className="max-w-prose mx-auto px-4">
       <div className="text-primary pb-6 mb-10 border-b border-primary/5 text-lg space-y-4">
         <p>
-          Hi, I&apos;m Mo, a technical leader with over 15 years of experience
-          across various industries. I am passionate about building and shipping
-          great digital products.
+          Hi, I&apos;m Mo, a technical leader and product engineer with over 15
+          years of experience across various industries. I am passionate about
+          building and shipping great digital products.
         </p>
 
         <p>
-          I enjoy collaborating with pragmatic, multi-disciplinary teams that
-          ship fast and with purpose. If you&apos;d like to work together,{" "}
-          <a href="mailto:mohamed@konbert.com" className="underline">
-            reach out
-          </a>
-          .
-        </p>
-
-        <p>
-          Currently, I&apos;m bootstrapping{" "}
+          I&apos;m currently building{" "}
           <a
-            href="https://konbert.com"
+            href="https://table.studio"
             target="_blank"
             rel="noopener noreferrer"
             className="underline"
           >
-            Konbert
+            table.studio
           </a>
-          .
+          , an AI native spreadsheet.
         </p>
       </div>
       <div className="pb-12">

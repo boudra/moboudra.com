@@ -1,8 +1,8 @@
 const currentProjects = [
   {
-    title: "Konbert",
-    description: "Data platform for visual data exploration and conversion.",
-    link: "https://konbert.com",
+    title: "table.studio",
+    description: "The spreadsheet that works and thinks with you",
+    link: "https://table.studio",
   },
   {
     title: "Blank Page",
